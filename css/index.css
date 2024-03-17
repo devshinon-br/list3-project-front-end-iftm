@@ -1,0 +1,10 @@
+title {
+    font-size: large !important;
+}
+
+div {
+    display: flex;
+    justify-content: flex-start;
+    font-weight: bold;
+    margin-top: 1%;
+}
